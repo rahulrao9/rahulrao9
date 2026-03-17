@@ -6,11 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="www.linkedin.com/in/rahul-rao-305337288"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/YOUR_TWITTER"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+<a href="https://www.kaggle.com/rahulrrao"><img width="32px" alt="Kaggle" title="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/YOUR_DEVTO"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
 </p>
 
 <br/>
@@ -75,7 +74,6 @@
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/rahulrao9"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rahulrao9&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/rahulrao9"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrao9&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 </details>
