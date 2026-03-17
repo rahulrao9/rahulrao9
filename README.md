@@ -28,9 +28,9 @@
 
   <p align="left">
     <a href="https://github.com/rahulrao9/GDPC-Minecraft"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrao9&repo=GDPC-Minecraft&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="GDPC-Minecraft"></a>
-    <a href="https://github.com/rahulrao9/Groovy"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrao9&repo=rl-q-learning-agent&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="rl-q-learning"></a>
-    <a href="https://github.com/rahulrao9/Distributed-Load-Testing-System"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=rahulrao9&repo=ml-classification-models&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="ml-classification"></a>
-    <a href="https://github.com/rahulrao9/Business_Forecasting"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrao9&repo=monte-carlo-simulations&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="monte-carlo"></a>
+    <a href="https://github.com/rahulrao9/Groovy"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrao9&repo=Groovy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Groovy"></a>
+    <a href="https://github.com/rahulrao9/Distributed-Load-Testing-System"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=rahulrao9&repo=Distributed-Load-Testing-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Distributed-Load-Testing-System"></a>
+    <a href="https://github.com/rahulrao9/Business_Forecasting"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrao9&repo=Business_Forecasting&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Business_Forecasting"></a>
   </p>
 </details>
 
