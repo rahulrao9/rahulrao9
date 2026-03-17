@@ -16,10 +16,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YOUR_GITHUB_USERNAME?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YOUR_GITHUB_USERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/rahulrao9?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rahulrao9?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/rahulrao9?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rahulrao9?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -28,10 +28,10 @@
   <summary><h2>📘 My Top Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME/minecraft-gdpc-structures"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=minecraft-gdpc-structures&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="minecraft-gdpc"></a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME/rl-q-learning-agent"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=rl-q-learning-agent&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="rl-q-learning"></a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME/ml-classification-models"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=YOUR_GITHUB_USERNAME&repo=ml-classification-models&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="ml-classification"></a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME/monte-carlo-simulations"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=monte-carlo-simulations&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="monte-carlo"></a>
+    <a href="https://github.com/rahulrao9/minecraft-gdpc-structures"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrao9&repo=minecraft-gdpc-structures&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="minecraft-gdpc"></a>
+    <a href="https://github.com/rahulrao9/rl-q-learning-agent"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrao9&repo=rl-q-learning-agent&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="rl-q-learning"></a>
+    <a href="https://github.com/rahulrao9/ml-classification-models"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=rahulrao9&repo=ml-classification-models&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="ml-classification"></a>
+    <a href="https://github.com/rahulrao9/monte-carlo-simulations"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrao9&repo=monte-carlo-simulations&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="monte-carlo"></a>
   </p>
 </details>
 
@@ -69,13 +69,13 @@
 
   <h3>🔥 Streak Stats</h3>
   <p>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img title="🔥 Streak stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github.com/rahulrao9">
+      <img title="🔥 Streak stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrao9&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/rahulrao9"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rahulrao9&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/rahulrao9"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrao9&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 </details>
