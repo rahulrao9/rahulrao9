@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/rahul-rao-305337288"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/rahul-rao-305337288"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.kaggle.com/rahulrrao"><img width="32px" alt="Kaggle" title="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
