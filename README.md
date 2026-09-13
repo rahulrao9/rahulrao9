@@ -26,17 +26,6 @@
 <br/>
 
 <details open> 
-  <summary><h2>📘 My Top Projects</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/rahulrao9/GDPC-Minecraft"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrao9&amp;repo=GDPC-Minecraft&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;v=1" alt="GDPC-Minecraft"></a>
-    <a href="https://github.com/rahulrao9/Battle-Snakes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrao9&amp;repo=Battle-Snakes&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;v=1" alt="Battle-Snakes"></a>
-    <a href="https://github.com/rahulrao9/Apex-Agents"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrao9&amp;repo=Apex-Agents&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;v=1" alt="Apex-Agents"></a>
-    <a href="https://github.com/rahulrao9/SASRec"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrao9&amp;repo=SASRec&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;v=1" alt="SASRec"></a>
-  </p>
-</details>
-
-<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <p>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
