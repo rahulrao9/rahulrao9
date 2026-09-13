@@ -1,64 +1,78 @@
-<h1 align="center">Hi, I'm Rahul Rao 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;Computer+Scientist;Python+Developer;RL+Model+Trainer&font=Fira+Code&center=true&width=500&height=45&color=F8D866&vCenter=true&pause=1000&size=22" /></a>
+# Hi, I'm Rahul Rao 👋
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer;Reinforcement+Learning+Researcher;Kaggle+Competitor;M.Sc.+AI+%40+Leiden&font=Fira+Code&center=true&width=520&height=45&color=F8D866&vCenter=true&pause=1200&size=22" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/rahul-rao-305337288"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/rahulrrao"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=QpJwm8kAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://github.com/rahulrao9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahul-rao-305337288"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://www.kaggle.com/rahulrrao"><img width="32px" alt="Kaggle" title="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://scholar.google.com/citations?user=QpJwm8kAAAAJ&hl=en"><img width="32px" alt="Google Scholar" title="Google Scholar" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"/></a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+</div>
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/rahulrao9?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rahulrao9?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/rahulrao9?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rahulrao9?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+## 🔬 Featured Work
+
+- **LISA-OS** — a JARVIS-style LLM-powered OS agent running Qwen2.5-7B locally, with tool registration, multi-agent delegation, and persistent memory. Currently a candidate topic for my master's thesis.
+- **Neural MMO — Emergent Team Roles** — multi-agent RL research on a CPU-only environment (PufferLib) studying emergent asymmetric roles (Vanguard / Sniper / Quartermaster), plus a neuro-symbolic hybrid built on a frozen Realikun agent.
+- **MetaBERT4Rec** — a metadata-enhanced sequential recommender (dual masking, popularity-biased negative sampling, BERT4Rec-style bidirectional attention) built across several Kaggle recommendation competitions.
+- **Battle-Snakes** — an AlphaZero-style MCTS agent for the competitive Battlesnake arena.
+
+## 🏆 Competitions
+
+- Hackathon finishes at **KODIKON 3.0** and **IEEE Silicon Rush 2.0**
+- Active competitor on **Kaggle** — recommendation systems & tabular ML
+- Full activity → [kaggle.com/rahulrrao](https://www.kaggle.com/rahulrrao)
+
+## 📄 Publications
+
+- IEEE CAI 2024
+- IEEE ICEI 2024
+- Full list → [Google Scholar](https://scholar.google.com/citations?user=QpJwm8kAAAAJ&hl=en)
+
+## 🛠️ Tech Stack
+
+**ML / AI**
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
-<br/>
+**Data**
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+</p>
 
-<details open> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <p>
-      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-      <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
-      <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
-      <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"></a>
-      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
-      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
-      <a href="#"><img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apachespark&logoColor=white"></a>
-      <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?logo=apachekafka&logoColor=white"></a>
-        </p>
-</details>
+**Infra & Tools**
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
-<details open> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+## 📊 GitHub Stats
 
-  <h3>🔥 Streak Stats</h3>
-  <p>
-    <a href="https://github.com/rahulrao9">
-      <img title="🔥 Streak stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrao9&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rahulrao9&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrao9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
-  <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/rahulrao9"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrao9&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-
-</details>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrao9&theme=tokyonight&hide_border=true" />
+</p>
