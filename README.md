@@ -17,25 +17,6 @@
 
 <br/>
 
-## 🔬 Featured Work
-
-- **LISA-OS** — a JARVIS-style LLM-powered OS agent running Qwen2.5-7B locally, with tool registration, multi-agent delegation, and persistent memory. Currently a candidate topic for my master's thesis.
-- **Neural MMO — Emergent Team Roles** — multi-agent RL research on a CPU-only environment (PufferLib) studying emergent asymmetric roles (Vanguard / Sniper / Quartermaster), plus a neuro-symbolic hybrid built on a frozen Realikun agent.
-- **MetaBERT4Rec** — a metadata-enhanced sequential recommender (dual masking, popularity-biased negative sampling, BERT4Rec-style bidirectional attention) built across several Kaggle recommendation competitions.
-- **Battle-Snakes** — an AlphaZero-style MCTS agent for the competitive Battlesnake arena.
-
-## 🏆 Competitions
-
-- Hackathon finishes at **KODIKON 3.0** and **IEEE Silicon Rush 2.0**
-- Active competitor on **Kaggle** — recommendation systems & tabular ML
-- Full activity → [kaggle.com/rahulrrao](https://www.kaggle.com/rahulrrao)
-
-## 📄 Publications
-
-- IEEE CAI 2024
-- IEEE ICEI 2024
-- Full list → [Google Scholar](https://scholar.google.com/citations?user=QpJwm8kAAAAJ&hl=en)
-
 ## 🛠️ Tech Stack
 
 **ML / AI**
